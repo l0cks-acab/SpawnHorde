@@ -14,8 +14,11 @@ This plugin was made by: herbs.acab
 ## Commands
 
 `/spawnhorde` - This command spawns a horde of specified animals that chase a specific or random player.
+
 `/spawnhorde` <player> <horde_size> <horde_health> animal:bear,chicken,wolf,boar,stag
+
 `/killhorde` - removes all entities from the last /spawnhorde command
+
 
 ## Parameters
 
